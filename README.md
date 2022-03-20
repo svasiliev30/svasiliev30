@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @svasiliev30
+- 👋 Hi, I’m Sergei Vasiliev)
 - 👀 Good afternoon, I am interested in self-development and I realized that the field 
 - of programming is suitable for me in order to be at the forefront of information content 
 - and receive new relevant knowledge in my new profession and develop.
