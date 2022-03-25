@@ -25,7 +25,7 @@ Serialization, Functional Programming, NIO
 Relational Databases in Java, Java Threads, Executors,
 WebServer in Java, Front-End Fundamentals, Servlets, 
 Servlet API, Spring Framework, Spring Framework,
-Spring MVC, Spring Boot, Spring AOP, ORM
+Spring MVC, Spring Boot, Spring AOP, ORM, MyBatis
 
 Spring Security, Spring Data JPA,
 Message System, OOP Architecture Concepts,
